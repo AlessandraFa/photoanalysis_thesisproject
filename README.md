@@ -20,6 +20,7 @@
 * Input multiple values and related fields to find all photos with given data in specific field - filter_multiple_specific_field(values: dict {field:value, field:value}) + instruction on how to build a dict
 * Input photo ID and find all photos with same data in specific field - filter_by_photo(photo_id, field, value (optional but recommended due to multiple values))
 * Input object ID to show all photos within that object - show_photos_of_artwork(object_id:str or int) in realtà è lo stesso di filter_by con campo field object_id
+* Filter options above without or only including photo data
 #### Using pandas for advanced filtering/cross search
 #### Data visualization
 #### Download output
