@@ -1,4 +1,4 @@
-# Object-Oriented Framework for Flexible Analysis of Photographic Archival Data
+# Framework for Flexible Analysis of Photographic Archival Data of the Kunsthistorisches Institut in Florenz
 ## 1. Introduction
 
 ## 2. Scope of the project
